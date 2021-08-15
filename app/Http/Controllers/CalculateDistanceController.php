@@ -8,7 +8,7 @@ use App\Http\Requests\CalculateDistanceRequest;
 
 class CalculateDistanceController extends Controller
 {
-   use Calculate ;
+   use Calculate;
 
 
     /**

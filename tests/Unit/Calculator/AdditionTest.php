@@ -4,7 +4,7 @@ namespace Tests\Unit\calculator;
 
 use App\Calculator\Services\Addition;
 use Exception;
-use PHPUnit\Framework\TestCase;
+use Tests\TestCase;
 
 class AdditionTest extends TestCase
 {
